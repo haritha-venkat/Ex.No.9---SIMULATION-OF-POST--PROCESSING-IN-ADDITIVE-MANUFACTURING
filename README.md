@@ -53,4 +53,3 @@
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
-](https://github.com/haritha-venkat/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/README.md)
